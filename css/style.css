@@ -156,8 +156,10 @@ iframe {
 
 }
 
-.clearfix {
-  overflow: auto;
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
 }
 
 .right {
