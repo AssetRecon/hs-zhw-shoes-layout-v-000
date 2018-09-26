@@ -136,6 +136,7 @@ iframe {
 
 .col-1 {
   width: 30%;
+  float: right;
 }
 
 .col-2 {
