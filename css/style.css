@@ -157,7 +157,7 @@ iframe {
 
 }
 
-.clearfix {
+.clearfix:after {
     content: "";
     clear: both;
     display: table;
