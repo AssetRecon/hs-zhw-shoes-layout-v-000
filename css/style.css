@@ -156,8 +156,8 @@ iframe {
 
 }
 
-.mid {
-
+.clearfix {
+  overflow: auto;
 }
 
 .right {
