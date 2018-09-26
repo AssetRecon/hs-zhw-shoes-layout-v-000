@@ -151,6 +151,18 @@ iframe {
   float: right;
 }
 
+.left {
+  float: left;
+
+}
+
+.mid {
+  
+}
+
+.right {
+  float: right;
+}
 /********** Header **********/
 
 /********** Nav Bar **********/
